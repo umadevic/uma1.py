@@ -1,0 +1,2 @@
+uma=input()
+print(uma+".")
